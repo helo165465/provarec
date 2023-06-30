@@ -1,0 +1,7 @@
+C:\Users\2022102020021\source\repos\provarec\provarec\obj\Debug\net6.0-windows\provarec.csproj.AssemblyReference.cache
+C:\Users\2022102020021\source\repos\provarec\provarec\obj\Debug\net6.0-windows\provarec.Form1.resources
+C:\Users\2022102020021\source\repos\provarec\provarec\obj\Debug\net6.0-windows\provarec.csproj.GenerateResource.cache
+C:\Users\2022102020021\source\repos\provarec\provarec\obj\Debug\net6.0-windows\provarec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020021\source\repos\provarec\provarec\obj\Debug\net6.0-windows\provarec.AssemblyInfoInputs.cache
+C:\Users\2022102020021\source\repos\provarec\provarec\obj\Debug\net6.0-windows\provarec.AssemblyInfo.cs
+C:\Users\2022102020021\source\repos\provarec\provarec\obj\Debug\net6.0-windows\provarec.csproj.CoreCompileInputs.cache
